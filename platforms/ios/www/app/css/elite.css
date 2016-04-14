@@ -1,0 +1,375 @@
+i.icon.ion-model-s {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/model-s.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+i.icon.elite {
+  width: 200px;
+  height: 130px;
+  background-image: url("../img/elite.png");
+  opacity: 0.9; }  
+
+i.icon.ion-chatboxes {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/chatboxes.png");
+  border-radius: 3px;
+  opacity: 0.7;}
+
+i.icon.android-social-user {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/android-social-user.png");
+  border-radius: 3px;
+  opacity: 0.7; }  
+
+i.icon.ion-wrench {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/wrench.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+i.icon.ion-calendar {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/calendar.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+i.icon.ion-calendar-t {
+  width: 46px;
+  height: 46px;
+  background-image: url("../img/calendar.png");
+  border-radius: 3px;
+  opacity: 0.7; }  
+
+i.icon.ion-filing {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/filing.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+i.icon.ion-heart {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/heart.png");
+  border-radius: 3px;
+  opacity: 0.7; } 
+
+i.icon.heart-outline {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/ic_favorite_border_black_48dp_2x.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+i.icon.heart-outline-media {
+  width: 36px;
+  height: 36px;
+  background-image: url("../img/ic_favorite_border_black_48dp_2x.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+  i.icon.heart-outline-w {
+  width: 25px;
+  height: 25px;
+  background-image: url("../img/ic_favorite_border_white_48dp_2x.png");
+  border-radius: 3px; }
+
+i.icon.share {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/ic_share_black_24dp_2x.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+i.icon.visibility {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/ic_visibility_black_24dp_2x.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+i.icon.beaker {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/beaker.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+i.icon.beaker-t {
+  width: 46px;
+  height: 46px;
+  background-image: url("../img/beaker.png");
+  border-radius: 3px;
+  opacity: 0.7; }  
+
+  i.icon.motor {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/motor.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+  i.icon.motor-t {
+  width: 46px;
+  height: 46px;
+  background-image: url("../img/motor.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+    i.icon.piston-t {
+  width: 46px;
+  height: 46px;
+  background-image: url("../img/piston-t.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+  i.icon.clipboard {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/clipboard.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+  i.icon.clipboard-t {
+  width: 46px;
+  height: 46px;
+  background-image: url("../img/clipboard-t.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+   i.icon.cloth {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/cloth.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+  i.icon.brakes {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/brakes.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+   i.icon.brakes-t {
+  width: 46px;
+  height: 46px;
+  background-image: url("../img/brakes.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+i.icon.brakes-b-t {
+  width: 46px;
+  height: 46px;
+  background-image: url("../img/brakes-b.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+i.icon.steering-t {
+  width: 46px;
+  height: 46px;
+  background-image: url("../img/steering-t.png");
+  border-radius: 3px;
+  opacity: 0.7; }  
+
+i.icon.gear-b {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/gear-b.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+i.icon.images {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/images.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+  i.icon.ios7-speedometer {
+  width: 24px;
+  height: 24px;
+  background-image: url("../img/ios7-speedometer.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+   i.icon.ios7-speedometer-t {
+  width: 46px;
+  height: 46px;
+  background-image: url("../img/ios7-speedometer.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+    i.icon.shift-t {
+  width: 46px;
+  height: 46px;
+  background-image: url("../img/shift.png");
+  border-radius: 3px;
+  opacity: 0.7; }
+
+.card {
+ box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);}
+
+.big{
+  padding-bottom: 86px;
+
+}
+.big-text{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 30px;
+  margin-left: 3%;
+  opacity: 0.8;
+}
+.big-left{
+  margin-top: -20px;
+}
+.des{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  margin-left: 3%;
+  margin-top: -12px;
+  opacity: 0.8;
+}
+
+.login-screen-content {
+  background-image: url("../images/bmw/1.jpg");
+  no-repeat center center fixed; 
+  background-size: cover;
+  box-shadow: 2px 2px 10px #999;
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.login{
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+    width: 330px;
+    height: 520px;
+    background: rgba(3,3,3,.7);
+    color: #fff;
+    overflow: hidden;
+    -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+
+.list-block input[type="text-login"],
+.list-block input[type="password-login"],
+.list-block textarea {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  appearance: none;
+  box-sizing: border-box;
+  border: none;
+  background: none;
+  border-radius: 0 0 0 0;
+  box-shadow: none;
+  display: block;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 36px;
+  color: #fff;
+  font-size: 16px;
+  font-family: inherit;
+}
+.list-block input[type="text-login"]::-webkit-input-placeholder,
+.list-block input[type="password-login"]::-webkit-input-placeholder,
+.list-block select::-webkit-input-placeholder,
+.list-block textarea::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.2);
+}
+
+ i.icon.air-c {
+  width: 46px;
+  height: 46px;
+  background-image: url("../img/air-t.png");
+  border-radius: 3px;
+  opacity: 0.7;
+   }
+
+ i.icon.fabric-t {
+  width: 43px;
+  height: 43px;
+  background-image: url("../img/fabric-t.png");
+  border-radius: 3px;
+  opacity: 0.7;
+   }
+
+ .confort-card{
+  background-color: #4CAF50;
+  text-align: center;
+  color: #fff;
+  font-size: 15px;
+ }  
+
+ .list-block .item-title-confort {
+  min-width: 0;
+  -webkit-box-flex: 1;
+  -webkit-flex-shrink: 1;
+  -ms-flex: 0 1 auto;
+  flex-shrink: 1;
+  white-space: nowrap;
+  position: relative;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+  padding-top: 6px;
+} 
+
+.extras{
+  background-color: #4CAF50;
+  font-size: 25px;
+  text-align: center;
+  color: #fff; 
+}
+
+.tech{
+  background-color: #FFA000;
+  font-size: 25px;
+  text-align: center;
+  color: #fff; 
+}
+
+@media only screen and (min-width: 569px) {
+.login{
+    position: absolute;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+    width: 560px;
+    height: 540px;
+    background: rgba(3,3,3,.7);
+    color: #fff;
+    overflow: hidden;
+    -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+
+.row .col-33 {
+  width: 33.333333333333336%;
+  width: -webkit-calc((100% - 16px*2) / 3);
+  width: calc((100% - 16px*2) / 3);
+}
+.row.no-gutter .col-33 {
+  width: 33.333333333333336%;
+}
+
+
+}
+
+

@@ -1,0 +1,1 @@
+var ptrContent = $$('.pull-to-refresh-content');

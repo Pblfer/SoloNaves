@@ -1,0 +1,22 @@
+{
+  "name": "elitecars",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Pablo Fernandez <pblfertec@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Pblfer/angularmaterial",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Framework7": "framework7#^1.4.2",
+    "ember": "^2.4.3"
+  }
+}
